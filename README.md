@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/45869481/208335306-a97aa317-eb04-4b2e-ac9d-7be463923a58.png)
+
 <h1 align="center">Hi 👋, I'm Krishna Tiwari</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
 
