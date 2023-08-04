@@ -1,3 +1,5 @@
+![image](https://github.com/kisnatwari/kisnatwari/assets/45869481/8bb734ba-c3be-46be-a3c8-75e753262f27)
+
 <h1 align="center">Hi 👋, I'm Krishna Tiwari</h1>
 <h3 align="center">A full stack developer from Nepal</h3>
 
